@@ -20,7 +20,7 @@ This is a quiz app, you select your type of questions and answer them in a limit
 <img src='Screenshots/quiz_start.png'></img>
 <img src='Screenshots/quiz_answer.png'></img>
 <img src='Screenshots/results.png'></img>
-<img src='Screenshots/options'></img>
+<img src='Screenshots/options.png'></img>
 
 # 🏆Feedback 
 
