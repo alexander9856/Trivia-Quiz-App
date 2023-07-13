@@ -3,6 +3,7 @@
 This is a quiz app, you select your type of questions and answer them in a limited time frame - you have 1 minute per question.
 - choose type of questions category.
 - choose an answer type : true/false or multiple choice.
+- choose difficulty: Easy / Medium / Hard.
 - opportunity to retry the same quiz when you finish.
 
 # 💻Technologies
@@ -19,6 +20,7 @@ This is a quiz app, you select your type of questions and answer them in a limit
 <img src='Screenshots/no_data.png'></img>
 <img src='Screenshots/quiz_start.png'></img>
 <img src='Screenshots/quiz_answer.png'></img>
+<img src='Screenshots/on_finish.png'></img>
 <img src='Screenshots/results.png'></img>
 <img src='Screenshots/options.png'></img>
 
