@@ -51,6 +51,7 @@ describe('e2e tests', () => {
         cy.get('.css-1p53m7s').first().click();
         cy.get('.css-1m063ge').contains('3');
         cy.contains('Previous');
+        cy.wait(1500)
         cy.contains('Finish').click();
 
         //results page
